@@ -1,0 +1,8 @@
+# GITIGNORE For basicOscillator2
+# Want to track projucer file and source files. Not the build folder or the JUCE libraries
+
+# Don't Track the Build Directory
+Builds/*
+
+# Don't track JUCE LIbrary Code
+JuceLibraryCode/*
